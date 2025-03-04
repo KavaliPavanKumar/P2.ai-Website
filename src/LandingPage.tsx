@@ -210,7 +210,7 @@ function LandingPage() {
                 </div>
               </div>
               <p className="text-gray-300">
-                "Bolt.new has completely transformed my workflow. I can build and deploy applications in a fraction of the time it used to take me."
+                "P2.ai has completely transformed my workflow. I can build and deploy applications in a fraction of the time it used to take me."
               </p>
             </div>
             <div className="bg-gray-800 rounded-xl p-6 shadow-lg border border-gray-700">
@@ -226,7 +226,7 @@ function LandingPage() {
                 </div>
               </div>
               <p className="text-gray-300">
-                "The features in Bolt.new are incredible. The AI Storyteller has been a game-changer for content creation on our platform."
+                "The features in P2.ai are incredible. The AI Storyteller has been a game-changer for content creation on our platform."
               </p>
             </div>
             <div className="bg-gray-800 rounded-xl p-6 shadow-lg border border-gray-700">
@@ -242,7 +242,7 @@ function LandingPage() {
                 </div>
               </div>
               <p className="text-gray-300">
-                "Our team's productivity has skyrocketed since we started using Bolt.new. The intuitive interface makes it accessible for everyone on our team."
+                "Our team's productivity has skyrocketed since we started using P2.ai. The intuitive interface makes it accessible for everyone on our team."
               </p>
             </div>
           </div>
@@ -269,7 +269,7 @@ function LandingPage() {
             <div>
               <div className="flex items-center space-x-2 mb-6">
                 <Zap className="w-8 h-8 text-purple-500" />
-                <span className="text-xl font-bold">Bolt.new</span>
+                <span className="text-xl font-bold">P2.ai</span>
               </div>
               <p className="text-gray-400 mb-6">
                 Building the future of web development, one application at a time.
@@ -329,7 +329,7 @@ function LandingPage() {
             </div>
           </div>
           <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
-            <p>© {new Date().getFullYear()} Bolt.new. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} P2.ai. All rights reserved.</p>
           </div>
         </div>
       </footer>
